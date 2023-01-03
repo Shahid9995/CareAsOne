@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "569273610669",
+    "project_id": "careasone-app",
+    "storage_bucket": "careasone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569273610669:android:fdf2eb1ded7b528ff3b124",
+        "android_client_info": {
+          "package_name": "com.app.careAsOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569273610669-7jr72i6q68ptc9us2ieauim3lpjnaf0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPxpNJK5woq9KP_jyOkVCNdYF9qVoypA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569273610669-7jr72i6q68ptc9us2ieauim3lpjnaf0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569273610669-mvkiqn12cdfvvp0m0aqru0hhpntbrqou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.careasone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569273610669:android:bf44b6cb01e782b9f3b124",
+        "android_client_info": {
+          "package_name": "com.example.careAsOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569273610669-7jr72i6q68ptc9us2ieauim3lpjnaf0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPxpNJK5woq9KP_jyOkVCNdYF9qVoypA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569273610669-7jr72i6q68ptc9us2ieauim3lpjnaf0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569273610669-mvkiqn12cdfvvp0m0aqru0hhpntbrqou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.careasone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+final String notificationUrl="";
+final String api_key="AAAAhItZ8a0:APA91bFVEib6he1fphpGFUuncMZuho_d3IG_yOSsDxgPhzWdjO-1t_eMN5toXLYhBEHS_Ux83DLnWPCdbinEIBDMx7_oWx2jS_obRy6mNy5jE4U67SExzHy1zzxGCkkKcyJK_LHFZccI";
